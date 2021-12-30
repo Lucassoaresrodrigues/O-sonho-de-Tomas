@@ -1,6 +1,69 @@
 <fable>
-	<page>
-  
+  <page background="a7129afd17abe69aff7e191ae1c8576d.jpg">
+    <agent text="Tomas era um jovem que queria se tornar um
+                 guerreiro. Mas para isso tinha que ser provado. 
+                 Havia uma vale encantado no reino, o lugor mais 
+                 perigoso e assombrador. No reino de Tomas todo 
+                 jovem que quisesse ser um querreiro teria que passar 
+                 5 dias no vale encantado 
+                 e voltar de lá vivo! O vale encantado era o lugar mais perigoso do reino..." color="red" x="20"  y="250" font-size="20"/>
+     <agent img="jump1.png" x="400"  y="0"  width="100"  height="100" on-touch="_NEXT_PAGE" />
     
+  </page>
+  <page background="D_NQ_NP_948563-MLB27457522344_052018-O.jpg">
+    <agent text="Tomas seguiu para o vale encantado..." x="20"  y="350" font-size="20"/>
+    <agent img="unnamed.png" x="130"  y="15"  width="200"  height="250" />
+    <agent img="jump1.png" x="400"  y="0"  width="100"  height="100" on-touch="_NEXT_PAGE" />
+  </page>
+  <page background="vale.1.jpg"> 
+    <agent text="Seu primeiro desafio era lutar com uma bruxa ..." color='white' x="20"  y="380" font-size="20"/>
+    <agent img="unnamed.png" x="250"  y="15"  width="200"  height="250" />
+    <agent img="bruxa.png" x="50"  y="50"  width="200"  height="250" />
+    
+    <agent img="jump1.png" x="400"  y="0"  width="100"  height="100" on-touch="_NEXT_PAGE" />
+  </page>
+  <page background="vale.1.jpg"> 
+    <agent text="Tomas foi avassalador, pois em sua espada tinha um metal que 
+                 rebatia todos os feitiços da bruxa..." color='white' x="20"  y="380" font-size="20"/>
+    <agent img="unnamed.png" x="130"  y="15"  width="200"  height="250" />
+    
+    <agent img="jump1.png" x="400"  y="0"  width="100"  height="100" on-touch="_NEXT_PAGE" />
+  </page>
+  <page background="baixados (1) (1).jfif"> 
+    <agent text="Em seu próximo desafio. Veio o dragão Tyrion" color='white' x="20"  y="380" font-size="20"/>
+    <agent img="unnamed.png" x="220"  y="15"  width="200"  height="250" />
+    <agent img="Free-Dragon-clipart-transparent.png" x="50"  y="50"  width="200"  height="250" />
+    
+    <agent img="jump1.png" x="400"  y="0"  width="100"  height="100" on-touch="_NEXT_PAGE" />
+  </page>
+  <page background="baixados (1) (1).jfif"> 
+  <agent text="A luta estava acirrada. O dragão não foi tão fácil de derrotar..." color='white' x="20"  y="380" font-size="20"/>
+  <agent img="unnamed.png" x="130"  y="15"  width="200"  height="250" />
+  
+  <agent img="jump1.png" x="400"  y="0"  width="100"  height="100" on-touch="_NEXT_PAGE" />
+  </page>
+  <page background="AgnesMonstro.jpg"> 
+  <agent text="O seu último e mais difícil desafio foi lutar com o Monstro do vale... " color='white' x="20"  y="380" font-size="20"/>
+  <agent img="unnamed.png" x="130"  y="15"  width="200"  height="250" />
+  
+  <agent img="jump1.png" x="400"  y="0"  width="100"  height="100" on-touch="_NEXT_PAGE" />
+  </page>
+  <page background="AgnesMonstro.jpg"> 
+  <agent text="Passaram 2 dias e Tomas não conseguiu empunhar
+               a espada no monstro e seu tempo já estava esgotando, 
+               ele precisava se apresentar no reino após 5 dias para 
+               enfim conseguir se tornar um guerreiro... " color='white' x="20"  y="380" font-size="20"/>
+  <agent img="unnamed.png" x="130"  y="15"  width="200"  height="250" />
+  
+  <agent img="jump1.png" x="400"  y="0"  width="100"  height="100" on-touch="_NEXT_PAGE" />
+  </page>
+  <page background="AgnesMonstro.jpg"> 
+  <agent text="Passaram 2 dias e Tomas não conseguiu empunhar
+               a espada no monstro e seu tempo já estava esgotando, 
+               ele precisava se apresentar no reino após 5 dias para 
+               enfim conseguir se tornar um guerreiro... " color='white' x="20"  y="380" font-size="20"/>
+  <agent img="unnamed.png" x="130"  y="15"  width="200"  height="250" />
+  
+  <agent img="jump1.png" x="400"  y="0"  width="100"  height="100" on-touch="_NEXT_PAGE" />
   </page>
 </fable>
