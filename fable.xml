@@ -66,4 +66,19 @@
   
   <agent img="jump1.png" x="400"  y="0"  width="100"  height="100" on-touch="_NEXT_PAGE" />
   </page>
+  <page background="a7129afd17abe69aff7e191ae1c8576d.jpg"> 
+  <agent text="Ao voltar ao reino Tomas foi recebido com muito alegria 
+               e nmeado guerreiro! Mostrou que com muito disposição sem 
+               desistir em momento algum conceguiu seo objetivo.
+               " color='white' x="20"  y="380" font-size="20"/>
+  <agent img="unnamed.png" x="130"  y="15"  width="200"  height="250" />
+  
+  <agent img="jump1.png" x="400"  y="0"  width="100"  height="100" on-touch="_NEXT_PAGE" />
+  </page>
+  <page background="baixados (1) (1).jfif"> 
+  <agent text="The end.
+               " color='white' x="20"  y="380" font-size="50"/>
+  <agent img="unnamed.png" x="130"  y="15"  width="200"  height="250" />
+  
+  </page>
 </fable>
