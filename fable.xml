@@ -49,7 +49,7 @@
   <agent img="jump1.png" x="400"  y="0"  width="100"  height="100" on-touch="_NEXT_PAGE" />
   </page>
   <page background="AgnesMonstro.jpg"> 
-  <agent text="Passaram 2 dias e Tomas não conseguiu empunhar
+  <agent text="Passaram 2 dias lutando bravamente e Tomas não conseguiu empunhar
                a espada no monstro e seu tempo já estava esgotando, 
                ele precisava se apresentar no reino após 5 dias para 
                enfim conseguir se tornar um guerreiro... " color='white' x="20"  y="380" font-size="20"/>
@@ -57,11 +57,11 @@
   
   <agent img="jump1.png" x="400"  y="0"  width="100"  height="100" on-touch="_NEXT_PAGE" />
   </page>
-  <page background="AgnesMonstro.jpg"> 
-  <agent text="Passaram 2 dias e Tomas não conseguiu empunhar
-               a espada no monstro e seu tempo já estava esgotando, 
-               ele precisava se apresentar no reino após 5 dias para 
-               enfim conseguir se tornar um guerreiro... " color='white' x="20"  y="380" font-size="20"/>
+  <page background="baixados (1) (1).jfif"> 
+  <agent text="Tomas teve fé desde o começo, mesmo sabendo que seria 
+               quase imossível sair do vale vivo. Com todas as dificuldades
+               Tomas mostrou ser um guerreiro e venceu o Monstro do vale
+               " color='white' x="20"  y="380" font-size="20"/>
   <agent img="unnamed.png" x="130"  y="15"  width="200"  height="250" />
   
   <agent img="jump1.png" x="400"  y="0"  width="100"  height="100" on-touch="_NEXT_PAGE" />
